@@ -58,3 +58,23 @@ All patient and billing records are fictional sample data. Do not add real patie
 - Add server-side authentication and role permissions
 - Connect a secure API and database with audit logging
 - Add calendar drag-and-drop and PDF invoice export
+
+## Application Screenshots
+
+### 1. Login Page
+![CarePoint Login](screenshots/01-login.png)
+
+### 2. Dashboard
+![CarePoint Dashboard](screenshots/02-dashboard.png)
+
+### 3. Patient Management
+![Patient Management](screenshots/03-patients.png)
+
+### 4. Doctor Management
+![Doctor Management](screenshots/04-doctors.png)
+
+### 5. Appointment Management
+![Appointment Management](screenshots/05-appointments.png)
+
+### 6. Billing Management
+![Billing Management](screenshots/06-billing.png)
